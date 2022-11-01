@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1bkLxDwSl6rBg1e2mjsoAUfEsyigG2H_wk98CFo1bgIc/edit?usp=sharing](https://docs.google.com/document/d/1bkLxDwSl6rBg1e2mjsoAUfEsyigG2H_wk98CFo1bgIc/edit?usp=sharing)
 
-- ⚡ Fun fact **Software Developer, I consider myself as honest, disciplined, hardworking, polite and responsible. I have experience working on projects using programming languages such as Python, Javascript, React, Html, Css.**
+- ⚡ **Software Developer, I consider myself as honest, disciplined, hardworking, polite and responsible. I have experience working on projects using programming languages such as Python, Javascript, React, Html, Css.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
